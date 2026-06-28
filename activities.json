@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ACT-1042",
+    "name": "Screen candidates for Warehouse Associate",
+    "description": "First-pass review of 38 applicants for the Q3 logistics ramp; shortlist 10 for phone screens.",
+    "category": "Recruitment",
+    "owner": "A. Rossi",
+    "status": "active",
+    "due": "2026-07-03"
+  },
+  {
+    "id": "ACT-1043",
+    "name": "Right-to-work compliance audit",
+    "description": "Verify documentation for all placements made in June across the Milan branch.",
+    "category": "Compliance",
+    "owner": "L. Conti",
+    "status": "blocked",
+    "due": "2026-06-30"
+  },
+  {
+    "id": "ACT-1044",
+    "name": "Onboard new branch coordinators",
+    "description": "Schedule system access, payroll setup, and induction for three new hires.",
+    "category": "Onboarding",
+    "owner": "M. Greco",
+    "status": "planned",
+    "due": "2026-07-08"
+  },
+  {
+    "id": "ACT-1045",
+    "name": "Quarterly business review — Logistics Co",
+    "description": "Prepare placement metrics and fill-rate deck for the client QBR.",
+    "category": "Client",
+    "owner": "S. Bianchi",
+    "status": "active",
+    "due": "2026-07-01"
+  },
+  {
+    "id": "ACT-1046",
+    "name": "Payroll run — week 26",
+    "description": "Validate timesheets and approve payroll for 214 temporary workers.",
+    "category": "Payroll",
+    "owner": "F. Marino",
+    "status": "done",
+    "due": "2026-06-26"
+  },
+  {
+    "id": "ACT-1047",
+    "name": "Refresh job ad templates",
+    "description": "Update standard ad copy to reflect new pay-transparency wording.",
+    "category": "Marketing",
+    "owner": "G. Ferrari",
+    "status": "planned",
+    "due": "2026-07-15"
+  },
+  {
+    "id": "ACT-1048",
+    "name": "Resolve timesheet discrepancies",
+    "description": "Investigate 6 flagged entries from the Turin site for week 25.",
+    "category": "Payroll",
+    "owner": "F. Marino",
+    "status": "blocked",
+    "due": "2026-06-29"
+  },
+  {
+    "id": "ACT-1049",
+    "name": "Candidate reference checks",
+    "description": "Complete two references each for the four Warehouse Associate finalists.",
+    "category": "Recruitment",
+    "owner": "A. Rossi",
+    "status": "active",
+    "due": "2026-07-04"
+  },
+  {
+    "id": "ACT-1050",
+    "name": "Branch safety walkthrough",
+    "description": "Annual on-site H&S review with the regional safety officer.",
+    "category": "Compliance",
+    "owner": "L. Conti",
+    "status": "planned",
+    "due": "2026-07-22"
+  },
+  {
+    "id": "ACT-1051",
+    "name": "Archive closed placements — Q1",
+    "description": "Move completed Q1 placement records to long-term storage.",
+    "category": "Onboarding",
+    "owner": "M. Greco",
+    "status": "done",
+    "due": "2026-06-20"
+  }
+]
