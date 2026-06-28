@@ -4,7 +4,7 @@ A self-contained web app for searching, filtering, and editing operational
 activities — with a workflow for pushing updates back to this repository
 **through Claude**.
 
-- **Live artifact:** https://claude.ai/code/artifact/9ad8ed29-61d3-42e7-99a6-419553d84b84
+- **Live artifact:** https://claude.ai/code/artifact/c0799178-337f-4b5d-a765-f87058fc181b
 - **App source:** [`index.html`](./index.html) (single file, no build step, no dependencies)
 - **Canonical data:** [`activities.json`](./activities.json)
 
